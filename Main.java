@@ -8,4 +8,9 @@ public class Main{
 		System.out.println("Andrija");
 	}
 
+	public static void andrija(){
+		System.out.println("Uros");
+	}
+
+
 }
