@@ -7,7 +7,7 @@ public class Main{
 	}
 
 	public static void andrija(){
-		System.out.println("Andrija");
+		System.out.println("Izmena metode");
 	}
 
 	public static void uros(){
