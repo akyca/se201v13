@@ -1,6 +1,8 @@
 public class Main{
 	public static void main(String [] args){
-		andrija();		
+		andrija();
+		uros();
+		uros1();		
 
 	}
 
@@ -8,9 +10,11 @@ public class Main{
 		System.out.println("Andrija");
 	}
 
-	public static void andrija(){
+	public static void uros(){
 		System.out.println("Uros");
 	}
+	public static void uros1(){
+		System.out.println("Uros");
 
-
+}
 }
